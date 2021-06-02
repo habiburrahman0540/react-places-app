@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-places-app/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react-places-app/static/js/main.9d649ebf.chunk.js",
+    "main.js.map": "/react-places-app/static/js/main.9d649ebf.chunk.js.map",
+    "runtime-main.js": "/react-places-app/static/js/runtime-main.27ad2f40.js",
+    "runtime-main.js.map": "/react-places-app/static/js/runtime-main.27ad2f40.js.map",
+    "static/js/2.f29edfc9.chunk.js": "/react-places-app/static/js/2.f29edfc9.chunk.js",
+    "static/js/2.f29edfc9.chunk.js.map": "/react-places-app/static/js/2.f29edfc9.chunk.js.map",
+    "static/js/3.cb605a55.chunk.js": "/react-places-app/static/js/3.cb605a55.chunk.js",
+    "static/js/3.cb605a55.chunk.js.map": "/react-places-app/static/js/3.cb605a55.chunk.js.map",
+    "index.html": "/react-places-app/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react-places-app/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.f29edfc9.chunk.js.LICENSE.txt": "/react-places-app/static/js/2.f29edfc9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-places-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27ad2f40.js",
+    "static/js/2.f29edfc9.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.9d649ebf.chunk.js"
+  ]
+}
